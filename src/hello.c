@@ -1,4 +1,4 @@
-// Chapter 1, Example 1
+// Chapter 1
 
 #include <stdio.h>
 #include <stdlib.h>
