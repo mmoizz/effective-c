@@ -3,3 +3,4 @@ project(effective-c)
 
 add_executable(hello "src/hello.c")
 add_executable(swap "src/swap.c")
+add_executable(lifetime "src/lifetime.c")
