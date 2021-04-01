@@ -30,3 +30,8 @@ FAIL_FILE2:
 FAIL_FILE1:
     return ret_val;
 }
+
+int main()
+{
+    // no op
+}
